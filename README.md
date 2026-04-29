@@ -10,7 +10,7 @@ The system continuously collects system-level metrics (CPU, Memory, Disk), visua
 
 ## Architecture
 
-![Architecture](architecture/Architecture.PNG)
+![Architecture](architecture/architecture.png)
 
 ---
 
